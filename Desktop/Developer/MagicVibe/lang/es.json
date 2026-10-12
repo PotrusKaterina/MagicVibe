@@ -1,0 +1,82 @@
+{
+  "common.learnMore": {
+    "defaultMessage": "Más información",
+    "description": "Link at the end of a section that opens external documentation"
+  },
+  "home.devMenu.device": {
+    "defaultMessage": "agita el dispositivo o pulsa <code>m</code> en la terminal",
+    "description": "How to open the dev menu on a physical phone"
+  },
+  "home.devMenu.simulator": {
+    "defaultMessage": "pulsa <code>{shortcut}</code>",
+    "description": "How to open the dev menu in a simulator. {shortcut} is a key combination"
+  },
+  "home.devMenu.web": {
+    "defaultMessage": "usa las herramientas del navegador",
+    "description": "How to open the dev menu when the app runs in a browser"
+  },
+  "home.getStarted": {
+    "defaultMessage": "primeros pasos",
+    "description": "Caption above the list of first steps. Rendered uppercase"
+  },
+  "home.hint.devTools": {
+    "defaultMessage": "Herramientas",
+    "description": "Label of the row explaining how to open the developer menu"
+  },
+  "home.hint.editing": {
+    "defaultMessage": "Prueba a editar",
+    "description": "Label of the row pointing at the file to edit first"
+  },
+  "home.hint.freshStart": {
+    "defaultMessage": "Empezar de cero",
+    "description": "Label of the row pointing at the project reset command"
+  },
+  "home.title": {
+    "defaultMessage": "Te damos la bienvenida a{nbsp}Expo",
+    "description": "Main heading on the home screen. {nbsp} is a non-breaking space that keeps Expo on the same line"
+  },
+  "nav.brand": {
+    "defaultMessage": "Expo Starter",
+    "description": "Product name shown on the left of the web header"
+  },
+  "nav.docs": {
+    "defaultMessage": "Docs",
+    "description": "Web header link out to the Expo documentation"
+  },
+  "profile.balance": {
+    "defaultMessage": "Saldo: {balance, number}",
+    "description": "Label and value for the player's spendable balance"
+  },
+  "profile.empty": {
+    "defaultMessage": "Aún no tienes relojes: abre una caja para ganar uno.",
+    "description": "Shown on the profile when the player owns no watches"
+  },
+  "profile.name": {
+    "defaultMessage": "Nombre: {name}",
+    "description": "Label and value for the player's chosen name"
+  },
+  "profile.sell": {
+    "defaultMessage": "Vender",
+    "description": "Button that trades an owned watch back for its price"
+  },
+  "profile.total": {
+    "defaultMessage": "Total",
+    "description": "Label on the row summing the value of every owned watch"
+  },
+  "tabs.explore": {
+    "defaultMessage": "Explorar",
+    "description": "Tab bar item that opens the examples screen"
+  },
+  "tabs.home": {
+    "defaultMessage": "Inicio",
+    "description": "Tab bar item that opens the main screen"
+  },
+  "welcome.continue": {
+    "defaultMessage": "Ir a la pantalla principal",
+    "description": "Button that stores the entered name and enters the app"
+  },
+  "welcome.nameLabel": {
+    "defaultMessage": "Introduce tu nombre",
+    "description": "Label above the name field on the first-run welcome screen"
+  }
+}

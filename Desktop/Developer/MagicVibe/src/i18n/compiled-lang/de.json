@@ -1,0 +1,163 @@
+{
+  "common.learnMore": [
+    {
+      "type": 0,
+      "value": "Mehr erfahren"
+    }
+  ],
+  "home.devMenu.device": [
+    {
+      "type": 0,
+      "value": "Gerät schütteln oder "
+    },
+    {
+      "type": 8,
+      "value": "code",
+      "children": [
+        {
+          "type": 0,
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "value": " im Terminal drücken"
+    }
+  ],
+  "home.devMenu.simulator": [
+    {
+      "type": 8,
+      "value": "code",
+      "children": [
+        {
+          "type": 1,
+          "value": "shortcut"
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "value": " drücken"
+    }
+  ],
+  "home.devMenu.web": [
+    {
+      "type": 0,
+      "value": "Browser-Entwicklertools verwenden"
+    }
+  ],
+  "home.getStarted": [
+    {
+      "type": 0,
+      "value": "erste Schritte"
+    }
+  ],
+  "home.hint.devTools": [
+    {
+      "type": 0,
+      "value": "Entwicklertools"
+    }
+  ],
+  "home.hint.editing": [
+    {
+      "type": 0,
+      "value": "Bearbeiten"
+    }
+  ],
+  "home.hint.freshStart": [
+    {
+      "type": 0,
+      "value": "Neu starten"
+    }
+  ],
+  "home.title": [
+    {
+      "type": 0,
+      "value": "Willkommen bei"
+    },
+    {
+      "type": 1,
+      "value": "nbsp"
+    },
+    {
+      "type": 0,
+      "value": "Expo"
+    }
+  ],
+  "nav.brand": [
+    {
+      "type": 0,
+      "value": "Expo Starter"
+    }
+  ],
+  "nav.docs": [
+    {
+      "type": 0,
+      "value": "Docs"
+    }
+  ],
+  "profile.balance": [
+    {
+      "type": 0,
+      "value": "Guthaben: "
+    },
+    {
+      "type": 2,
+      "value": "balance",
+      "style": null
+    }
+  ],
+  "profile.empty": [
+    {
+      "type": 0,
+      "value": "Noch keine Uhren — öffne eine Box, um eine zu gewinnen."
+    }
+  ],
+  "profile.name": [
+    {
+      "type": 0,
+      "value": "Name: "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "profile.sell": [
+    {
+      "type": 0,
+      "value": "Verkaufen"
+    }
+  ],
+  "profile.total": [
+    {
+      "type": 0,
+      "value": "Gesamt"
+    }
+  ],
+  "tabs.explore": [
+    {
+      "type": 0,
+      "value": "Entdecken"
+    }
+  ],
+  "tabs.home": [
+    {
+      "type": 0,
+      "value": "Start"
+    }
+  ],
+  "welcome.continue": [
+    {
+      "type": 0,
+      "value": "Zum Hauptbildschirm"
+    }
+  ],
+  "welcome.nameLabel": [
+    {
+      "type": 0,
+      "value": "Gib deinen Namen ein"
+    }
+  ]
+}
